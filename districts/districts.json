@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5cbeacfd525bb11534cd7312"},"district_name":"Anantapur","district_id":{"$numberInt":"1"}}
+{"_id":{"$oid":"5cbead97ac99441534dc1bae"},"district_name":"Chittoor","district_id":{"$numberInt":"2"}}
+{"_id":{"$oid":"5cbeadaaac99441534dc1baf"},"district_name":"East Godavari","district_id":{"$numberInt":"3"}}
+{"_id":{"$oid":"5cbeadb3ac99441534dc1bb0"},"district_name":"Guntur","district_id":{"$numberInt":"4"}}
+{"_id":{"$oid":"5cbeadbcac99441534dc1bb1"},"district_name":"Krishna","district_id":{"$numberInt":"5"}}
+{"_id":{"$oid":"5cbeadc4ac99441534dc1bb2"},"district_name":"Kurnool","district_id":{"$numberInt":"6"}}
+{"_id":{"$oid":"5cbeadccac99441534dc1bb3"},"district_name":"Nellore","district_id":{"$numberInt":"7"}}
+{"_id":{"$oid":"5cbeadd4ac99441534dc1bb4"},"district_name":"Prakasam","district_id":{"$numberInt":"8"}}
+{"_id":{"$oid":"5cbeadddac99441534dc1bb5"},"district_name":"Srikakulam","district_id":{"$numberInt":"9"}}
+{"_id":{"$oid":"5cbeade5ac99441534dc1bb6"},"district_name":"Visakhapatnam","district_id":{"$numberInt":"10"}}
+{"_id":{"$oid":"5cbeadecac99441534dc1bb7"},"district_name":"Vizianagaram","district_id":{"$numberInt":"11"}}
+{"_id":{"$oid":"5cbeadf8ac99441534dc1bb8"},"district_name":"West Godavari","district_id":{"$numberInt":"12"}}
+{"_id":{"$oid":"5cbeae02ac99441534dc1bb9"},"district_name":"YSR Kadapa","district_id":{"$numberInt":"13"}}
