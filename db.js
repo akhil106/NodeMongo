@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 //mongoose.connect('mongodb://localhost:27017/Asman');
-mongoose.connect('mongodb+srv://akhil:Bunty@143@ecomshoper.f0oqbjj.mongodb.net/);
+mongoose.connect('mongodb+srv://akhil:Bunty%40143@ecomshoper.f0oqbjj.mongodb.net/);
 
 var dist = require('./districts/districts');
 var districts = [
